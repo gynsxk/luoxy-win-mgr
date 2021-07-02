@@ -1,0 +1,4 @@
+service:
+  name: "LUOXY_WIN_MGR"
+  desc: "LUOXY Windows 服务管理"
+
